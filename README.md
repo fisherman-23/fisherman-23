@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://ooijingshun.com/" target="_blank">
-    🌐 Check out my Portfolio → <strong>ooijingshun.com</strong>
+  <a href="https://jingshun.dev/" target="_blank">
+    🌐 Check out my Portfolio → <strong>jingshun.dev</strong>
   </a>
 </p>
 
